@@ -1,1 +1,55 @@
+body {
+    background-color: rgb(3, 7, 14);
+    line-height: 0px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+    color: azure;
+}
+h3 {
+    text-align: center;
+    font: 80px;
+    color: rgb(124, 196, 127);
+}
+
+.Intro {
+text-align: center;
+font-size: 10px;
+color: azure;
+}
+
+img {
+    width: 150px;
+    float:left;
+}
+h1 {
+    text-align: left;
+    font-size: 10px;
+    color: azure;
+}
+
+h4 { 
+    text-align: left;
+    font-size: 50px;
+    color: rgb(124, 196, 127);
+}
+a {
+    color: azure;
+    font-size: 30px;
+}
+
+p {
+    text-align: left;
+    font: 15px;
+    color: azure;
+    line-height: normal;
+}
+
+h5 {
+    text-align: left;
+    font-size: 50px;
+    color: rgb(124, 196, 127);
+}
 

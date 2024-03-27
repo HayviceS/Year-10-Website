@@ -14,9 +14,9 @@ h3 {
     color: rgb(124, 196, 127);
 }
 
-.Intro {
+.intro {
 text-align: center;
-font-size: 10px;
+font-size: 15px;
 color: azure;
 }
 
@@ -53,3 +53,8 @@ h5 {
     color: rgb(124, 196, 127);
 }
 
+a {
+    font-weight: 20;
+  text-decoration: underline;
+  font-size: medium;
+}
